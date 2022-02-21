@@ -1,3 +1,9 @@
+<script
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+  type="text/javascript">
+</script>
+
+
 Esse código implementa uma possivel solução para o problema "1022 - TAD Racional" da plataforma beecrowd (antigo URI).
 
 O código implementa um Tipo Abstrato de Dados para representar um número racional ($\mathbb{Q}$), i.e. uma fração. O código também implementa um comjunto de operações básicas para trabalhar com frações.
