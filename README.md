@@ -14,8 +14,8 @@ n1 / d1 (c) n2 / d2
 onde:
 n1 é o numerador da primeira fração <br>
 d1 é o denominador da primeira fração <br>
-n2 é o numerador da primeira fração <br>
-d2 é o denominador da primeira fração <br>
+n2 é o numerador da segunda fração <br>
+d2 é o denominador da segunda fração <br>
 c é uma operação (+,-,/ ou *) <br>
 
 Para cada um dessas $N$ linhas o programa retornará o resultado e sua forma irredutivel.
